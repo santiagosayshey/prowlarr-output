@@ -13,8 +13,8 @@ This Python script allows you to search Prowlarr for specific queries using its 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/prowlarr-search-script.git
-   cd prowlarr-search-script
+   git clone https://github.com/santiagosayshey/prowlarr-output.git
+   cd prowlarr-output
    ```
 
 2. Install the required libraries:
